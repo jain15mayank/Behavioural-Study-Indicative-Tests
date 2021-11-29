@@ -3,7 +3,7 @@ This repository contains the code to conduct a case study to confirm the presenc
 
 With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript:
 
-> Jain, M.*, Jain, M.*, AlSkaif, T., and Dev, S.(2021). Modelling behavioral shifts upon inclusion of renewable energy sources. In: PES Letters, 2021
+> Jain, M.<sup>\*</sup>, Jain, M.<sup>\*</sup>, AlSkaif, T., and Dev, S.(2021). Modelling behavioral shifts upon inclusion of renewable energy sources. In: PES Letters, 2021
 
 The work is done using the Google Colab Framework (with GPU) in python and on a personal computer in Stata.
 
